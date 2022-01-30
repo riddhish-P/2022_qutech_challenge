@@ -5,7 +5,7 @@
 
 #### Riddhish Pandharkar (riddhish@uchicago.edu)
 
-#### Shu Fay Ung (email@email.com)
+#### Shu Fay Ung (su2254@columbia.edu)
 
 #### Felipe Contipeli (email@email.com)
 
