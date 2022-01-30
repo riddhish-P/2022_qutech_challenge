@@ -7,7 +7,10 @@
 
 #### Shu Fay Ung (su2254@columbia.edu)
 
-#### Felipe Contipeli (email@email.com)
+#### Felipe Contipeli (fcontipelli@yahoo.com)
+
+Link to slides for (Bell State Error Correction using Bit and Phase Parity Measurements on Quantum Inspire):
+https://docs.google.com/presentation/d/1BjQZ4FdOawBjyyVN9BrFC0tuB74vr10o4pnSqJilGpQ/edit?usp=sharing
 
 
 ### Project Description:
