@@ -1,6 +1,6 @@
 # QuTech Challenges @ MIT iQuHACK 2022
 
-## Team name : $\langle Repetition |Noise| Repetition \rangle$
+## Team name : (Repetition | Noise | Repetition )
 ### Team members:
 
 #### Riddhish Pandharkar (riddhish@uchicago.edu)
